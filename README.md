@@ -25,11 +25,6 @@ It allows users to add, view, and analyze expenses stored in a CSV file.
 
 ---
 
-## 📸 Screenshots
-_Add your app screenshots here if possible (optional but attractive)_
-
----
-
 ## ⚙️ How to Run
 1. Clone the repository  
    ```bash
